@@ -12,7 +12,7 @@
 
 <h3 align="left">Projects:</h3>
 <p align="left">
- 1) RFID Based Attendance System.
+ <b>1) RFID Based Attendance System. </b>
   <br>
- 2)Blood Bank Managment System. 
+ <b> 2)Blood Bank Managment System. </b>
 </p>
